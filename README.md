@@ -4,3 +4,6 @@ random color. is a basic website where it randomly chnges the background color o
 
 # Tech stack 
 I used React to build this project.
+
+# Link
+https://codesandbox.io/s/randmize-color-forked-svsfpv
