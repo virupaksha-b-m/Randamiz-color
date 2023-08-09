@@ -7,3 +7,4 @@ I used React to build this project.
 
 # Link
 https://codesandbox.io/s/randmize-color-forked-svsfpv
+(if in case this link is not works then raise the issue here)
